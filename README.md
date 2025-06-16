@@ -15,8 +15,7 @@ This project scrapes and processes financial news headlines, applies NLP techniq
 ## 🚀 Features
 
 - **Text Preprocessing**: Cleans headlines by removing noise, tokenizing, and normalizing.
-- **Sentiment Classification**: Implements models (e.g., RandomForest Classification) to label headlines as *positive*, *negative*, or *neutral*.
-- **Evaluation**: Includes metrics like accuracy, ROC-AUC, confusion matrix, and possibly time-series correlation.
+- **Sentiment Classification**: Implements models (e.g., RandomForest Classification) to label headlines as *positive*, *negative*, or *neutral*
 
 ---
 
