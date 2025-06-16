@@ -41,11 +41,6 @@ This project scrapes and processes financial news headlines, applies NLP techniq
    venv\Scripts\activate        # Windows
    ```
 
-3. **Install dependencies**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 
 
 ## 📓 Usage
