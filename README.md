@@ -2,7 +2,7 @@
 
 # 📰 Financial Market News Sentiment Analysis
 
-Analyze financial news headlines to infer market sentiment using Python, NLP, and machine learning (LSTM/LSTM+BERT).
+Analyse financial news headlines using Python, NLP, and Machine Learning to infer market sentiment.
 
 ---
 
@@ -14,15 +14,15 @@ This project scrapes and processes financial news headlines, applies NLP techniq
 
 ## 🚀 Features
 
-- **Text Preprocessing**: Cleans headlines by removing noise, tokenizing, and normalizing.
-- **Sentiment Classification**: Implements models (e.g., RandomForest Classification) to label headlines as *positive*, *negative*, or *neutral*
+- **Text Preprocessing**: Cleans headlines by removing noise, tokenising, and normalising.
+- **Sentiment Classification**: Implements models (e.g., RandomForest Classification) to predict the accuracy, F1 Score.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - Python 3.x  
-- Libraries: `pandas`, `numpy`, `scikit-learn`, `TensorFlow`, `Keras`, `transformers`, `TextBlob`, `Matplotlib`, `Seaborn`
+- Libraries: `pandas`, `numpy`, `scikit-learn`, `TensorFlow`, `Keras`, `transformers`, `Matplotlib`
 
 
 
