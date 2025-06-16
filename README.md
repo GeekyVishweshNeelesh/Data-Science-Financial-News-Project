@@ -69,6 +69,6 @@ Feel free to:
 
 ### 📝 Author
 
-**Vishwesh Neelesh** – Data Scientist  
+**Vishwesh Neelesh** – Aspiring Data Scientist   
 GitHub: [GeekyVishweshNeelesh](https://github.com/GeekyVishweshNeelesh)  
 Built with ❤️
